@@ -3,15 +3,30 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f0f0f0;
+  background-color: #DFEBE7;
   color: #333;
+   text-align: center;
 }
 header {
-  background-color: #6200ea;
-  color: white;
+  font_weight: bold;
+  background-color: #A7C0CF;
+  color: gold;
   padding: 20px;
   text-align: center;
 }
 main {
   padding: 20px;
 }
+#projekt1 {
+  font_weight: iterativ;
+  background-color: #A9D4B7;
+}
+#projekt2 {
+  font_weight: iterativ;
+  background-color:#93C8BE;
+}
+#projekt3 {
+  font_weight: iterativ;
+  background-color:#BCD9DA;
+}
+
